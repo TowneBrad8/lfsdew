@@ -2,8 +2,7 @@
 
 将本项目fork或者上传至自己仓库修改`Deploy to Heroku`按键指向地址为自己仓库地址
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/louyour/nginx-Manual.git)
-
+[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com//TowneBrad8/lfsdew
 ### heroku上部署v2ray
 
 本项目只支持部署vless+ws+tls 或 vmess+ws+tls单协议节点，支持跳转伪装网页，可自定义伪装网站地址。
