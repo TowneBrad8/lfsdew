@@ -1,6 +1,6 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "lfsdew s",
+  "description": "lfsdew ",
   "keywords": [
     "vmess or vles"
   ],
@@ -22,10 +22,9 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/TowneBrad8/lfsdew",
+  "repository": "https://github.com/TowneBrad8/lfsdew",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
   ]
-}
